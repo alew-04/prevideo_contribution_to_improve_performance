@@ -22,7 +22,7 @@ title: Anna and Nelson's Awesome website!
 email: alew@unc.edu & nelson8@unc.edu
 description:
   Shows data supporting the idea that pre-lecture videos would be beneficial to student currently enrolled in COMP110.
-baseurl: "/prevideo_contribution_to_improve_performance" # the subpath of your site, e.g. /blog
+baseurl: "prevideo_contribution_to_improve_performance" # the subpath of your site, e.g. /blog
 url: "http://alew-04.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alew-04
 
