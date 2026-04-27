@@ -10,7 +10,7 @@ layout: default
 
 ## Students' opinion on having optional pre-lecture videos
 
-Students filled out a questionnaire that asked them various questions about who they were and their opinions about the class. Answers to the questions about the class ranged from 1, strongly disagree, to 7, strongly agree. This indicates 4 is a neutral opinion on the given statement. When asked if pre-lecture videos would be helpful for their learning, many students agreed. 
+Towards the end of the semester, students filled out a questionnaire that asked them various questions about who they were and their opinions about the class. Answers to the questions about the class ranged from 1, strongly disagree, to 7, strongly agree. This indicates 4 is a neutral opinion on the given statement. When asked if pre-lecture videos would be helpful for their learning, many students agreed. Below are three graphs that support this statement.
 
 ## Figure 1
 
