@@ -10,17 +10,17 @@ layout: default
 
 ## Students' opinion on having optional pre-lecture videos
 
-Students filled out a questionnaire that asked them various questions about who they were and some of their opinions about the class. When asked if pre-lecture videos would be helpful for their learning, many agreed. 
+Students filled out a questionnaire that asked them various questions about who they were and their opinions about the class. Answers to the questions about the class ranged from 1, strongly disagree, to 7, strongly agree. This indicates 4 is a neutral opinion on the given statement. When asked if pre-lecture videos would be helpful for their learning, many students agreed. 
 
-<img>
+<img src="static/imgs/graph1.png" alt="Image if bar graph of pre-lecture preferance." width="500">
 
 Students selected a number between 1, strongly disagree and 7, strongly agree. As shown, strongly agree was the most common answer.
 
-<img>
+<img src="static/imgs/graph2.png" alt="Image of box plot comparing pre-lecture video preferance to percieved difficulty." width="500">
 
 When comparing students' preferance to having pre-lecture videos to their opinion on the difficulty of the class, those who selected 6 or 7 for pre lecture videos also answered higher when asked how difficult the class was for them. The question also ranged from 1 to 7. 1 signified they found the class to be very easy and 7 signified they found the class to be very difficult.
 
-<img>
+<img src="static/imgs/graph3.png" alt="Image of box plot comparing pre-lecture video preferance to percieved understanding of class." width="500">
 
 When comparing students' understanding of the clas to having pre-lecture videos, those who prefered pre lecture videos answered they have less understanding of the class. The question ranged from 1 to 7. 1 signified they did not understand anything and 7 signified they understand everything.
 
